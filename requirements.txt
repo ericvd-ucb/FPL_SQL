@@ -1,1 +1,5 @@
 jupysql
+pandas
+plotly 
+sqlalchemy
+sqlite3
